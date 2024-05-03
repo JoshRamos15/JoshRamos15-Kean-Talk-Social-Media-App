@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    align-items: center; /* Vertically centers the child */
+    justify-content: center; /* Horizontally centers the child */
+    height: 100vh; /* Full viewport height */
+    /* Other styles */
+}
